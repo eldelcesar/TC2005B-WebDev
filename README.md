@@ -27,5 +27,5 @@ En este laboratorio iniciaremos la exploración del [Front-end](Servicios-Web/La
 ### 6) Componentes
 Después de probar cómo conectar front-end y back-end, ahora nos enfocaremos en el desarrollo de componentes en ReactJS. En este lab sobre [Componentes](Servicios-Web/Lab6-Componentes/), crearemos componentes básicos de React que utilicen props, estados y componentes anidados.
 
-### 6) Deploy
+### 7) Deploy
 Para cerrar el desarrollo de nuestra web app, exploraremos cómo hacer un despliegue (deployment) en Heroku. Este lab de [Deploy](Servicios-Web/Lab7-Deploy/) requiere descargar la carpeta, eliminar el repositorio local y crear uno nuevo en Heroku.
