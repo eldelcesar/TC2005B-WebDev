@@ -23,3 +23,9 @@ En la práctica de [Web APIs](Servicios-Web/Lab4-Web-APIs/), exploraremos cómo 
 
 ### 5) Front-end
 En este laboratorio iniciaremos la exploración del [Front-end](Servicios-Web/Lab5-Front-end/). Crearemos una app de React básica (con [Create-React-App](https://create-react-app.dev)) y lo conectaremos con nuestra API creada en el [Lab 4](Servicios-Web/Lab4-Web-APIs/).
+
+### 6) Componentes
+Después de probar cómo conectar front-end y back-end, ahora nos enfocaremos en el desarrollo de componentes en ReactJS. En este lab sobre [Componentes](Servicios-Web/Lab6-Componentes/), crearemos componentes básicos de React que utilicen props, estados y componentes anidados.
+
+### 6) Deploy
+Para cerrar el desarrollo de nuestra web app, exploraremos cómo hacer un despliegue (deployment) en Heroku. Este lab de [Deploy](Servicios-Web/Lab7-Deploy/) requiere descargar la carpeta, eliminar el repositorio local y crear uno nuevo en Heroku.
