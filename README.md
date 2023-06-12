@@ -29,3 +29,6 @@ Después de probar cómo conectar front-end y back-end, ahora nos enfocaremos en
 
 ### 7) Deploy
 Para cerrar el desarrollo de nuestra web app, exploraremos cómo hacer un despliegue (deployment) en Heroku. Este lab de [Deploy](Servicios-Web/Lab7-Deploy/) requiere descargar la carpeta, eliminar el repositorio local y crear uno nuevo en Heroku.
+
+### 8) Testing
+Como módulo complementario, exploraremos Unit testing para endpoints en nuestra web app. El [Lab8](Servicios-Web/Lab8-Testing/) utiliza jest y supertest. Es importante instalar ambos: ```npm i -D jest supertest```.
